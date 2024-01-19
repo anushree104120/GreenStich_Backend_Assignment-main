@@ -152,7 +152,7 @@ spring.h2.console.path=/h2-console
 
 ```
 
-## **Contributors**
 
-- **[Shimbhu Kumawat](https://github.com/Shimbhu77)**
+
+
  
